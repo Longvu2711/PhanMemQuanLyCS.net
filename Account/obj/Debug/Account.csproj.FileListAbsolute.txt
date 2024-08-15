@@ -1,0 +1,174 @@
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.DangKi.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.DangNhap.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.trangchu.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\week3\Account\Account\bin\Debug\Account.exe.config
+C:\Users\ASUS\Desktop\week3\Account\Account\bin\Debug\Account.exe
+C:\Users\ASUS\Desktop\week3\Account\Account\bin\Debug\Account.pdb
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.exe
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.pdb
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.hanghoa.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.chitietchuquay.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.chuquay.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.kho.resources
+C:\Users\ASUS\Desktop\week3\Account\Account\obj\Debug\Account.nhapxuathang.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\Account.exe.config
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\Account.exe
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\Account.pdb
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.chitietchuquay.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.chuquay.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.kho.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.nhapxuathang.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.DangKi.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.DangNhap.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.hanghoa.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.trangchu.resources
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.exe
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.pdb
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\MiniWord.dll
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Desktop\Nhom8_20CN1\Account\Account\obj\Debug\Account.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\Account.exe.config
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\Account.exe
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\Account.pdb
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\MiniWord.dll
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.chitietchuquay.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.chuquay.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.kho.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.nhapxuathang.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.DangKi.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.DangNhap.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.hanghoa.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.trangchu.resources
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.exe
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.pdb
+C:\Users\ASUS\Desktop\Nhom8\Account\Account\obj\Debug\Account.ThongTinCaNhan.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\Account.exe.config
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\Account.exe
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\Account.pdb
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\MiniWord.dll
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\phan7\Desktop\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.chitietchuquay.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.chuquay.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.kho.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.nhapxuathang.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.DangKi.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.DangNhap.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.hanghoa.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.ThongTinCaNhan.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.trangchu.resources
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.csproj.Up2Date
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.exe
+C:\Users\phan7\Desktop\Nhom8\Account\Account\obj\Debug\Account.pdb
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\Account.exe.config
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\Account.exe
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\Account.pdb
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\MiniWord.dll
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Downloads\Nhom8\Nhom8\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.chitietchuquay.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.chuquay.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.kho.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.nhapxuathang.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.DangKi.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.DangNhap.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.hanghoa.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.Properties.Resources.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.ThongTinCaNhan.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.trangchu.resources
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.csproj.Up2Date
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.exe
+D:\Downloads\Nhom8\Nhom8\Account\Account\obj\Debug\Account.pdb
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\Account.exe.config
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\Account.exe
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\Account.pdb
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\MiniWord.dll
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.chitietchuquay.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.chuquay.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.kho.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.nhapxuathang.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.DangKi.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.DangNhap.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.hanghoa.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.Properties.Resources.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.ThongTinCaNhan.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.trangchu.resources
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.Up2Date
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.exe
+C:\Users\longv\OneDrive\Máy tính\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.pdb
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.chitietchuquay.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.chuquay.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.kho.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.nhapxuathang.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.quaykinhdoanh.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.DangKi.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.DangNhap.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.hanghoa.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.QuenMatKhau.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.ThongTinCaNhan.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.trangchu.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.GenerateResource.cache
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.exe
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.pdb
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\Account.exe.config
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\Account.exe
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\Account.pdb
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\MiniWord.dll
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.Properties.Resources.resources
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\Downloads\VuThanhLong-2055010159-20CN3 (2)\VuThanhLong-2055010159-20CN3\Account\Account\obj\Debug\Account.csproj.Up2Date

@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|d:\\downloads\\vuthanhlong-2055010159-20cn3 (2)\\vuthanhlong-2055010159-20cn3\\account\\account\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\dangnhap.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\properties\\resources.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\quenmatkhau.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\resources\\cho.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\resources\\cho.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\resources\\hide.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\resources\\hide.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\resources\\hien.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\resources\\hien.jpeg||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\thongtincanhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\acc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\acc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\quaykinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\quaykinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\account\\quaykinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04DF543B-B669-47FF-A292-3156FBBF7B8B}|Account\\Account.csproj|solutionrelative:account\\quaykinhdoanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DangNhap.Designer.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangNhap.Designer.cs",
+              "RelativeDocumentMoniker": "Account\\DangNhap.Designer.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangNhap.Designer.cs",
+              "RelativeToolTip": "Account\\DangNhap.Designer.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAwwJ4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:54:55.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Account\\Properties\\Resources.resx",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Properties\\Resources.resx",
+              "RelativeToolTip": "Account\\Properties\\Resources.resx",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAQwJsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-08-15T21:53:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "Account\\Taikhoan.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Taikhoan.cs",
+              "RelativeToolTip": "Account\\Taikhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:59:43.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DangNhap.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Account\\DangNhap.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangNhap.cs",
+              "RelativeToolTip": "Account\\DangNhap.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAkwGIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:39:09.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kho.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\kho.cs",
+              "RelativeDocumentMoniker": "Account\\kho.cs",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\kho.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\kho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:55:43.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kho.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\kho.cs",
+              "RelativeDocumentMoniker": "Account\\kho.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\kho.cs",
+              "RelativeToolTip": "Account\\kho.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAQwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:55:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "cho.jpg - Bitmap [1200x510, 24 bit, JPG]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Resources\\cho.jpg",
+              "RelativeDocumentMoniker": "Account\\Resources\\cho.jpg",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\Resources\\cho.jpg - Bitmap [1200x510, 24 bit, JPG]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\Resources\\cho.jpg - Bitmap [1200x510, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-14T16:05:01.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangNhap.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangNhap.cs",
+              "RelativeDocumentMoniker": "Account\\DangNhap.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangNhap.cs [Design]",
+              "RelativeToolTip": "Account\\DangNhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:39:01.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThongTinCaNhan.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\ThongTinCaNhan.cs",
+              "RelativeDocumentMoniker": "Account\\ThongTinCaNhan.cs",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\ThongTinCaNhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\ThongTinCaNhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:59:54.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuenMatKhau.Designer.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\QuenMatKhau.Designer.cs",
+              "RelativeDocumentMoniker": "Account\\QuenMatKhau.Designer.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\QuenMatKhau.Designer.cs",
+              "RelativeToolTip": "Account\\QuenMatKhau.Designer.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAwwI0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T21:53:34.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuenMatKhau.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\QuenMatKhau.cs",
+              "RelativeDocumentMoniker": "Account\\QuenMatKhau.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\QuenMatKhau.cs [Design]",
+              "RelativeToolTip": "Account\\QuenMatKhau.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:43:31.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "trangchu.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\trangchu.cs",
+              "RelativeDocumentMoniker": "Account\\trangchu.cs",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\trangchu.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\trangchu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:59:55.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DangKi.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangKi.cs",
+              "RelativeDocumentMoniker": "Account\\DangKi.cs",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\DangKi.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\DangKi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:09:22.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DangKi.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangKi.cs",
+              "RelativeDocumentMoniker": "Account\\DangKi.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\DangKi.cs",
+              "RelativeToolTip": "Account\\DangKi.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAASwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:09:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "hide.png - PNG [225x225, 8 bit, PNG]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Resources\\hide.png",
+              "RelativeDocumentMoniker": "Account\\Resources\\hide.png",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\Resources\\hide.png - PNG [225x225, 8 bit, PNG]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\Resources\\hide.png - PNG [225x225, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-14T16:02:57.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "hien.jpeg",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Resources\\hien.jpeg",
+              "RelativeDocumentMoniker": "Account\\Resources\\hien.jpeg",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Resources\\hien.jpeg",
+              "RelativeToolTip": "Account\\Resources\\hien.jpeg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-06-14T16:03:00.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Acc.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Acc.cs",
+              "RelativeDocumentMoniker": "Account\\Acc.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Acc.cs",
+              "RelativeToolTip": "Account\\Acc.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:45:06.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "quaykinhdoanh.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\quaykinhdoanh.cs",
+              "RelativeDocumentMoniker": "Account\\quaykinhdoanh.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\quaykinhdoanh.cs",
+              "RelativeToolTip": "Account\\quaykinhdoanh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:43:36.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "trangchu.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\trangchu.cs",
+              "RelativeDocumentMoniker": "Account\\trangchu.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\trangchu.cs",
+              "RelativeToolTip": "Account\\trangchu.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAjwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:54:15.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Connection.cs",
+              "RelativeDocumentMoniker": "Account\\Connection.cs",
+              "ToolTip": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\Connection.cs",
+              "RelativeToolTip": "Account\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:58:34.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "quaykinhdoanh.cs [Design]",
+              "DocumentMoniker": "D:\\Downloads\\VuThanhLong-2055010159-20CN3 (2)\\VuThanhLong-2055010159-20CN3\\Account\\Account\\quaykinhdoanh.cs",
+              "RelativeDocumentMoniker": "Account\\quaykinhdoanh.cs",
+              "ToolTip": "D:\\Downloads\\Nhom8\\Nhom8\\Account\\Account\\quaykinhdoanh.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Nhom8\\Nhom8\\Account\\Account\\quaykinhdoanh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T15:43:34.45Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
